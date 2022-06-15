@@ -1,0 +1,10 @@
+sample	group1	group2
+BC_1	CK	Mollisols
+BC_2	CK	Mollisols
+BC_3	CK	Mollisols
+BS_1	PGPRs	Mollisols
+BS_2	PGPRs	Mollisols
+BS_3	PGPRs	Mollisols
+BT_1	SynCom	Mollisols
+BT_2	SynCom	Mollisols
+BT_3	SynCom	Mollisols

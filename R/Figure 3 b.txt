@@ -1,0 +1,11 @@
+	Centralcarbohydratemetabolism	Aminosugars	Di-andoligosaccharides	One-carbonMetabolism	Organicacids	Fermentation	Sugaralcohols	Polysaccharides	Monosaccharides
+BurkholderiacepaciaATCC25416	56	6	4	5	17	30	11	0	21
+PaenarthrobacterilicisstrainCECT4207	87	9	35	10	19	33	22	5	29
+Rhizobiumradiobactoer	61	3	3	5	0	19	7	0	20
+StenotrophomonasrhizophilastrainQL-P4	66	11	13	5	17	20	4	3	25
+bin.16(conexi)	14	0	1	3	0	31	0	0	1
+bin.11(conexi)	39	0	5	4	0	30	4	0	7
+bin.9(microco)	62	9	36	5	28	30	23	5	37
+bin.13(rhizo)	127	10	28	7	0	42	27	5	66
+bin.20(xanthomo)	46	7	4	4	4	29	0	0	6
+bin.6(bur)	36	0	0	4	17	52	5	0	2

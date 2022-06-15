@@ -1,0 +1,97 @@
+	group	type
+1	A1	Water
+2	A2	Carbohydrates
+3	A3	Carbohydrates
+4	A4	Amino Acids
+5	A5	Water
+6	A6	Carbohydrates
+7	A7	Carbohydrates
+8	A8	Amino Acids
+9	A9	Water
+10	A10	Carbohydrates
+11	A11	Carbohydrates
+12	A12	Amino Acids
+13	B1	Carboxylic acids
+14	B2	Carbohydrates
+15	B3	Carbohydrates
+16	B4	Amino Acids
+17	B5	Carboxylic acids
+18	B6	Carbohydrates
+19	B7	Carbohydrates
+20	B8	Amino Acids
+21	B9	Carboxylic acids
+22	B10	Carbohydrates
+23	B11	Carbohydrates
+24	B12	Amino Acids
+25	C1	Polymer
+26	C2	Carbohydrates
+27	C3	Phenolic acids
+28	C4	Amino Acids
+29	C5	Polymer
+30	C6	Carbohydrates
+31	C7	Phenolic acids
+32	C8	Amino Acids
+33	C9	Polymer
+34	C10	Carbohydrates
+35	C11	Phenolic acids
+36	C12	Amino Acids
+37	D1	Polymer
+38	D2	Carbohydrates
+39	D3	Phenolic acids
+40	D4	Amino Acids
+41	D5	Polymer
+42	D6	Carbohydrates
+43	D7	Phenolic acids
+44	D8	Amino Acids
+45	D9	Polymer
+46	D10	Carbohydrates
+47	D11	Phenolic acids
+48	D12	Amino Acids
+49	E1	Polymer
+50	E2	Carbohydrates
+51	E3	Carboxylic acids
+52	E4	Amino Acids
+53	E5	Polymer
+54	E6	Carbohydrates
+55	E7	Carboxylic acids
+56	E8	Amino Acids
+57	E9	Polymer
+58	E10	Carbohydrates
+59	E11	Carboxylic acids
+60	E12	Amino Acids
+61	F1	Polymer
+62	F2	Carbohydrates
+63	F3	Carboxylic acids
+64	F4	Amino Acids
+65	F5	Polymer
+66	F6	Carbohydrates
+67	F7	Carboxylic acids
+68	F8	Amino Acids
+69	F9	Polymer
+70	F10	Carbohydrates
+71	F11	Carboxylic acids
+72	F12	Amino Acids
+73	G1	Carbohydrates
+74	G2	Carbohydrates
+75	G3	Carboxylic acids
+76	G4	Amine
+77	G5	Carbohydrates
+78	G6	Carbohydrates
+79	G7	Carboxylic acids
+80	G8	Amine
+81	G9	Carbohydrates
+82	G10	Carbohydrates
+83	G11	Carboxylic acids
+84	G12	Amine
+85	H1	Carbohydrates
+86	H2	Carbohydrates
+87	H3	Carboxylic acids
+88	H4	Amine
+89	H5	Carbohydrates
+90	H6	Carbohydrates
+91	H7	Carboxylic acids
+92	H8	Amine
+93	H9	Carbohydrates
+94	H10	Carbohydrates
+95	H11	Carboxylic acids
+96	H12	Amine
